@@ -26,8 +26,8 @@ O sistema baixa o vídeo e o áudio separadamente na melhor qualidade disponíve
 ## Instalação
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/youtube-downloader-gui.git
-cd youtube-downloader-gui
+git clone https://github.com/fernandorita04/yt-video-downloader.git
+cd yt-video-downloader
 ```
 Crie e ative um ambiente virtual
 ```bash
